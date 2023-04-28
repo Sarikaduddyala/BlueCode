@@ -4,5 +4,5 @@ read -p "Enter the group name:" gname
 echo "Below are members of $gname group:"
 groupmems -l -g $gname
 #end
-#
+#End of the file
 
